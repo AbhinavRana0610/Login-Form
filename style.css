@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: rgb(224, 223, 223);
+    font-family: "Poppins", sans-serif;
+    height: 100%;
+    width: 100%;
+}
+img{
+
+    padding: 20px;
+    width: 280px;
+    height: 340px;
+}
+.card-container
+{   margin-left: 250px;
+    display: inline-block;
+    width: 300px;
+    height: 450px;
+    background-color:rgb(12, 86, 197);
+    text-align: center;
+    margin-top: 50px;
+}
+.h1{
+    text-align: left;
+    margin-left: 80px;
+    color: white;
+    
+    
+}
+
+.p1{
+    color: white;
+    text-align: center;
+    font-size: 13px;
+}
+.login{
+    display: inline-block;
+    height: 450px;
+    width: 400px;
+    background-color: white;
+    vertical-align: top;
+    text-align: center;
+    margin-left: -4px;
+    margin-top: 50px;
+}
+.l1{
+    color:rgb(12, 86, 197) ;
+    padding-top: 60px;
+}
+.e1{
+    width: 290px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(235, 234, 234);
+    box-shadow: 0.5px 0.5px 3px 0px;
+}
+
+.p3{
+    width: 290px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(235, 234, 234);
+    box-shadow: 0.5px 0.5px 3px 0px;
+
+}
+  
+    
+
+.f1{
+    color:rgb(12, 86, 197) ;
+    padding-left: 55px;
+    margin-left: 5px;
+    text-align: left;
+    font-size: 13px;
+    margin-top: 4px;
+
+}
+.l2{
+    width: 290px;
+    height: 30px;
+    background-color: #2D68C4;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.p2{
+    font-size: 13px;
+    color: rgb(77, 77, 77);
+}
+.s1{
+    color:rgb(12, 86, 197) ;
+}
+.fb
+{
+    background-color: white;
+    width: 100px;
+    border: none;
+    height: 25px;
+    color:#2D68C4;
+    border-radius: 5px;
+    font-size: 2rem;
+}
+.go{
+    background-color: #FF0000;
+    width: 100px;
+    border: none;
+    height: 25px;
+    color: white;
+    border-radius: 50%;
+    font-size: 1.8rem;
+}
+.login {
+    display: inline-block;
+    height: 450px;
+    width: 400px;
+    background-color: white;
+    vertical-align: top;
+    text-align: center;
+    margin-left: -4px;
+    margin-top: 50px;
+    -webkit-box-shadow: 8px 15px 24px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: 8px 15px 24px -12px rgba(0,0,0,0.75);
+    box-shadow: 8px 15px 24px -12px rgba(0,0,0,0.75);
+}
+
+.card-container
+{
+    -webkit-box-shadow: 8px 15px 24px -12px rgba(0,0,0,0.75);
+-moz-box-shadow: 8px 15px 24px -12px rgba(0,0,0,0.75);
+box-shadow: 8px 15px 24px -12px rgba(0,0,0,0.75);
+}
+
